@@ -6,7 +6,7 @@
 🏃‍♂️ Track & Field Athlete (Sprint Hurdles)  
 ## 👨‍💻 About Me
 
-I'm a Computer Science student with a strong interest in backend development, system design, and artificial intelligence. I enjoy building things that are efficient, scalable, and meaningful from Roblox systems to backend services and experimental AI-driven projects.
+I’m a Computer Science student focused on backend development and system design, with experience building structured systems in Roblox and exploring full-stack applications.
 
 Alongside tech, I’m a competitive track and field athlete, which has taught me discipline, consistency, and long-term focus qualities I bring into my development as an engineer and future founder.
 ## ⚙️Tech & Interests
